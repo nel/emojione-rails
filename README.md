@@ -42,7 +42,7 @@ Everything is available at https://github.com/Ranks/emojione
 
 ## Gotcha
 
-This gem bundle emojione png and svg version but not the sprites (for size purposes mainly). If you need to use the emojione sprites, this gem is not for your.
+This gem bundle emojione png and svg version but not the sprites (for size purposes mainly). If you need to use the emojione sprites, this gem is not for you.
 
 ## Licensing
 
