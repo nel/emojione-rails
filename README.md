@@ -28,17 +28,29 @@ $ rake emojione
 
 ## Usage
 
-In your JavaScript,Css manifest (e.g. `application.js`):
+In your JavaScript manifest (e.g. `application.js`):
 
     //= require emojione
+    
+In your CSS/SCSS manifest (e.g. `application.scss`):
+
+    @import "emojione";
+
+## Documentation
+
+Everything is available at https://github.com/Ranks/emojione
+
+## Gotcha
+
+This gem bundle emojione png and svg version but not the sprites (for size purposes mainly). If you need to use the emojione sprites, this gem is not for your.
 
 ## Licensing
 
-See LICENCE file
+See [LICENCE](https://github.com/nel/emojione-rails) file
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/emojione-rails/fork )
+1. Fork it ( https://github.com/nel/emojione-rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
