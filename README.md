@@ -46,11 +46,11 @@ This gem bundle emojione png and svg version but not the sprites (for size purpo
 
 ## Licensing
 
-See [LICENCE](https://github.com/nel/emojione-rails) file
+See [LICENCE](https://github.com/dimelo/emojione-rails) file
 
 ## Contributing
 
-1. Fork it ( https://github.com/nel/emojione-rails/fork )
+1. Fork it ( https://github.com/dimelo/emojione-rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
