@@ -31,10 +31,14 @@ $ rake emojione
 In your JavaScript manifest (e.g. `application.js`):
 
     //= require emojione
-    
+
 In your CSS/SCSS manifest (e.g. `application.scss`):
 
     @import "emojione";
+
+If you want to use [Emojione Awesome](https://github.com/Ranks/emojione/tree/master/lib/emojione-awesome), you can also optionally add the following line to your CSS/SCSS manifest:
+
+    @import "emojione-awesome";
 
 ## Documentation
 
